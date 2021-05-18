@@ -11,7 +11,7 @@ del lenguaje de programacion C.
 <p>
 para compilar y ejecutar el programa principal
 <br>solamente ejecute el siguiente comando
-<br>dentro de la carpeta ProgramaHola
+<br>dentro de la carpeta del Programa
 </p>
 
 <h3>Comando de compilacion & ejecucion :</h3>
