@@ -26,5 +26,5 @@ para compilar y ejecutar el programa principal
 
 <h3>para crear un programa nuevo apartir del archivo Main.c</h3>
 <pre>
-gcc -o you_program_name Main.c
+gcc -o your_program_name Main.c
 </pre>
