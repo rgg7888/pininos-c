@@ -18,3 +18,13 @@ para compilar y ejecutar el programa principal
 <pre>
 ./compilar.sh
 </pre>
+
+<h3>para ejecutar despues de haber compilado</h3>
+<pre>
+./main
+</pre>
+
+<h3>para crear un programa nuevo apartir del archivo Main.c</h3>
+<pre>
+gcc -o you_program_name Main.c
+</pre>
