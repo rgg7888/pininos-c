@@ -27,3 +27,4 @@ puts("5- otros separadores");
 puts("-------------------------------------");
 #include "Identificadores.c"
 #include "PalabrasReservadas.c"
+#include "TiposDeDatos.c"
